@@ -1,0 +1,15 @@
+{
+  "name": "json-to-lang",
+  "version": "0.0.1",
+  "author": "Philip Woods <philip.woods.public@gmail.com>",
+  "description": "Library for auto generating serialization code based on JSON structures",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.5.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.3",
+    "typescript": "^2.6.2"
+  }
+}
